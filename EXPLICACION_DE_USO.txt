@@ -1,0 +1,47 @@
+PROYECTO REALIZADO POR:
+
+	ALEJANDRO PÉERZ ARANDA
+
+----------------------------------------------
+		LIBRERIAS A UTILIZAR
+----------------------------------------------
+
+	- <LiquidCrystal_I2C.h>
+	- <Wire.h>
+	- <SPI.h>
+	- <nRF24L01.h>
+	- <RF24.h>
+	- <DHT.h>
+
+
+----------------------------------------------
+		MATERIALES A UTILIZAR
+----------------------------------------------
+
+	- ARDUINO UNO.
+	- ARDUINO MEGA.
+	- SENSOR DE TEMPERATURA DHT11 // DHT22.
+	- PNATALLA LCD.
+	- MÓDULO I2C.
+	- X2 MÓDULOS DE COMUNICACIÓN NFR204L01.
+
+
+----------------------------------------------
+			 CARPETAS
+----------------------------------------------
+
+	- FRITZING
+		· CIRCUITOS PARA MODIFICAR CON EL SOFTWARE: FRITZING
+			TANTO EL CIRCUITO EMISOR COMO RECEPTOR.
+
+	- IMAGENES
+		· IMAGENES DEL MONTAJE DEL CIRCUITO Y DE SU FUNCIONAMIENTO.
+
+	- LIBRERIAS
+		· INCLUYE LAS LIBRERIAS UTILIZADAS EN EL PROYECTO.
+
+	- NFR_EMISOR_SIHD_PÉREZ_ALEJANDRO
+		· INCLUYE EL CÓDIGO DE ARDUINO PARA EL EMISOR.
+
+	- NFR_RECEPTOR_SIHD_PÉREZ_ALEJANDRO
+		· INCLUYE EL CÓDIGO DE ARDUINO PARA EL RECEPTOR.
